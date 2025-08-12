@@ -1,0 +1,21 @@
+club_name,club_url,season,Games Played,Goals,Goals Conceded,Shots,Shots On Target,penalties,penalties_scored,free_kicks_taken,free_kicks_scored,Hit Woodwork,crosses,cross_accuracy,Interceptions,Blocks,Clearances,Passes,long_passes,long_pass_accuracy,Corners Taken,dribble_attempts,dribble_accuracy,Duels Won,Aerial Duels Won,Red Cards,Yellow Cards,Fouls,Offsides,Own Goals,Free Kicks Scored,penalties_saved,penalty_save_precentage
+Arsenal,https://www.premierleague.com/en/clubs/3/arsenal/stats,2021/2022,38,61,48,396,198,8,5,21,1,18,425,23,296,123,636,18290,1865,42,209,590,54,1679,471,4,60,365,66,1,0,0,0
+Aston Villa,https://www.premierleague.com/en/clubs/7/aston-villa/stats,2021/2022,38,52,54,324,162,3,3,0,0,6,447,19,339,140,630,14885,1877,42,196,587,57,2006,545,2,79,401,52,2,20,1,17
+Brentford,https://www.premierleague.com/en/clubs/94/brentford/stats,2021/2022,38,48,56,310,155,6,6,0,0,12,455,21,393,113,809,14604,2335,40,159,476,55,1949,722,3,61,371,66,2,11,0,0
+Brighton and Hove Albion,https://www.premierleague.com/en/clubs/36/brighton-and-hove-albion/stats,2021/2022,38,42,44,304,152,7,4,0,0,11,493,20,358,150,684,18835,2182,44,202,559,57,1910,572,2,73,393,53,2,15,0,0
+Burnley,https://www.premierleague.com/en/clubs/90/burnley/stats,2021/2022,38,34,53,250,125,2,1,14,1,15,523,19,410,211,832,12322,2619,41,184,479,54,2005,833,2,68,394,101,2,0,0,0
+Chelsea,https://www.premierleague.com/en/clubs/8/chelsea/stats,2021/2022,38,76,33,422,211,9,8,26,1,17,488,18,347,96,617,23178,1795,54,242,624,58,1915,543,1,63,409,69,1,0,0,0
+Crystal Palace,https://www.premierleague.com/en/clubs/31/crystal-palace/stats,2021/2022,38,50,46,294,147,8,6,13,1,11,426,20,333,135,731,17309,2292,44,176,687,56,2110,613,1,67,414,63,0,0,1,25
+Everton,https://www.premierleague.com/en/clubs/11/everton/stats,2021/2022,38,43,66,276,138,7,6,0,0,7,443,23,365,140,775,12944,2203,39,161,634,53,2064,640,6,78,368,53,1,18,0,0
+Leeds United,https://www.premierleague.com/en/clubs/2/leeds-united/stats,2021/2022,38,42,79,308,154,5,5,13,1,17,458,16,395,143,603,16503,2120,41,171,655,52,1961,477,3,101,469,63,0,0,0,0
+Leicester City,https://www.premierleague.com/en/clubs/13/leicester-city/stats,2021/2022,38,62,59,338,169,2,2,14,1,9,359,18,367,146,727,18578,1985,44,185,547,54,1913,532,1,55,356,60,0,0,2,22
+Liverpool,https://www.premierleague.com/en/clubs/14/liverpool/stats,2021/2022,38,94,26,512,256,8,7,13,1,9,593,21,340,74,499,23588,2110,54,285,635,54,1755,574,1,50,363,63,0,0,0,0
+Manchester City,https://www.premierleague.com/en/clubs/43/manchester-city/stats,2021/2022,38,99,26,508,254,9,7,0,0,24,608,17,279,55,368,26132,1851,63,317,741,57,1735,483,1,42,321,66,3,17,0,0
+Manchester United,https://www.premierleague.com/en/clubs/1/manchester-united/stats,2021/2022,38,57,57,374,187,5,3,19,1,13,462,19,340,133,673,19035,1876,51,198,631,58,1828,558,2,75,396,88,1,0,2,40
+Newcastle United,https://www.premierleague.com/en/clubs/4/newcastle-united/stats,2021/2022,38,44,62,298,149,3,3,15,4,7,393,19,360,162,743,12503,2257,43,160,632,57,2059,677,2,79,392,71,3,0,1,17
+Norwich City,https://www.premierleague.com/en/clubs/45/norwich-city/stats,2021/2022,38,23,84,218,109,3,3,0,0,8,355,17,381,180,816,14466,2165,43,165,581,51,1836,495,1,55,356,55,2,18,1,8
+Southampton,https://www.premierleague.com/en/clubs/20/southampton/stats,2021/2022,38,43,67,340,170,4,4,24,4,10,440,18,446,132,761,15289,2085,38,234,624,56,1986,674,2,63,402,42,2,0,0,0
+Tottenham Hotspur,https://www.premierleague.com/en/clubs/6/tottenham-hotspur/stats,2021/2022,38,69,40,396,198,5,5,16,1,13,466,23,355,161,758,19165,1691,49,195,667,56,1940,565,1,67,386,62,6,0,0,0
+Watford,https://www.premierleague.com/en/clubs/57/watford/stats,2021/2022,38,34,77,254,127,2,1,0,0,11,408,23,444,148,866,13047,2364,39,162,751,53,2073,717,3,57,442,53,1,24,1,14
+West Ham United,https://www.premierleague.com/en/clubs/21/west-ham-united/stats,2021/2022,38,60,51,314,157,6,4,13,1,10,581,17,374,175,754,16580,2150,45,201,545,56,1753,642,3,47,323,59,2,0,3,50
+Wolverhampton Wanderers,https://www.premierleague.com/en/clubs/39/wolverhampton-wanderers/stats,2021/2022,38,38,43,272,136,1,1,13,1,12,406,21,389,135,771,17517,2245,47,168,771,58,1919,465,2,59,366,61,3,0,0,0

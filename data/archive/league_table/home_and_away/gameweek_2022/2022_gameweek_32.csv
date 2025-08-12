@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,32,23,6,3,77,34,43,75
+2,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,30,22,4,4,78,28,50,70
+3,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,31,16,11,4,54,25,29,59
+4,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,30,18,5,7,46,37,9,59
+5,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,32,16,5,11,58,51,7,53
+6,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,32,15,6,11,45,41,4,51
+7,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,31,14,8,9,59,38,21,50
+8,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,29,14,7,8,54,37,17,49
+9,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,31,13,6,12,44,42,2,45
+10,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,32,10,14,8,48,43,5,44
+11,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,31,10,9,12,30,33,-3,39
+12,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,32,9,10,13,31,40,-9,37
+13,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,31,9,7,15,33,41,-8,34
+14,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,32,9,7,16,27,44,-17,34
+15,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,32,9,6,17,31,63,-32,33
+16,https://resources.premierleague.com/premierleague25/badges/2.svg,Leeds United,32,7,8,17,41,62,-21,29
+17,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,32,8,4,20,43,56,-13,28
+18,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,32,6,10,16,24,46,-22,28
+19,https://resources.premierleague.com/premierleague25/badges/17.svg,Nottingham Forest,32,6,9,17,26,59,-33,27
+20,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,32,6,6,20,27,56,-29,24

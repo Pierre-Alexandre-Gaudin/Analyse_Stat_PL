@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,3,2,1,0,7,4,3,7
+2,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,2,2,0,0,7,1,6,6
+3,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,2,2,0,0,6,1,5,6
+4,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,2,2,0,0,6,1,5,6
+5,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,3,2,0,1,7,3,4,6
+6,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,3,2,0,1,8,5,3,6
+7,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,2,2,0,0,4,1,3,6
+8,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,3,2,0,1,5,5,0,6
+9,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,3,1,1,1,4,2,2,4
+10,https://resources.premierleague.com/premierleague25/badges/17.svg,Nottingham Forest,2,1,1,0,3,2,1,4
+11,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,3,0,3,0,5,5,0,3
+12,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,2,1,0,1,4,4,0,3
+13,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,2,1,0,1,3,3,0,3
+14,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,2,1,0,1,1,3,-2,3
+15,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,3,0,2,1,1,3,-2,2
+16,https://resources.premierleague.com/premierleague25/badges/49.svg,Sheffield United,3,0,1,2,3,5,-2,1
+17,https://resources.premierleague.com/premierleague25/badges/102.svg,Luton Town,1,0,0,1,1,2,-1,0
+18,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,3,0,0,3,0,3,-3,0
+19,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,2,0,0,2,2,7,-5,0
+20,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,3,0,0,3,3,11,-8,0

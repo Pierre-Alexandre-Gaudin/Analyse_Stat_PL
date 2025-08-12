@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,8,8,0,0,30,5,25,24
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,7,6,1,0,15,1,14,19
+3,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,8,5,3,0,17,7,10,18
+4,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,8,5,2,1,16,8,8,17
+5,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,8,5,2,1,14,7,7,17
+6,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,8,4,2,2,14,10,4,14
+7,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,7,4,2,1,12,8,4,14
+8,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,6,4,0,2,11,6,5,12
+9,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,7,3,3,1,10,10,0,12
+10,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,8,4,0,4,11,13,-2,12
+11,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,7,3,2,2,10,6,4,11
+12,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,8,3,2,3,10,11,-1,11
+13,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,8,3,1,4,11,12,-1,10
+14,https://resources.premierleague.com/premierleague25/badges/97.svg,Cardiff City,8,3,1,4,11,15,-4,10
+15,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,7,2,2,3,10,16,-6,8
+16,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,8,2,0,6,6,13,-7,6
+17,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,7,0,5,2,6,10,-4,5
+18,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,7,1,2,4,4,8,-4,5
+19,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,8,1,2,5,3,10,-7,5
+20,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,7,1,1,5,8,15,-7,4

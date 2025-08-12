@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,6,4,1,1,14,9,5,13
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,6,4,1,1,15,14,1,13
+3,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,5,4,0,1,12,5,7,12
+4,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,6,4,0,2,13,8,5,12
+5,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,6,3,2,1,16,8,8,11
+6,https://resources.premierleague.com/premierleague25/badges/2.svg,Leeds United,6,3,1,2,12,9,3,10
+7,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,6,3,1,2,10,9,1,10
+8,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,6,3,1,2,8,9,-1,10
+9,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,6,3,1,2,6,8,-2,10
+10,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,6,2,3,1,13,9,4,9
+11,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,6,3,0,3,8,7,1,9
+12,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,6,2,2,2,12,8,4,8
+13,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,5,2,2,1,8,8,0,8
+14,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,6,2,2,2,8,10,-2,8
+15,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,5,2,1,2,9,12,-3,7
+16,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,6,1,2,3,10,12,-2,5
+17,https://resources.premierleague.com/premierleague25/badges/35.svg,West Bromwich Albion,6,0,3,3,6,14,-8,3
+18,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,5,0,1,4,3,9,-6,1
+19,https://resources.premierleague.com/premierleague25/badges/49.svg,Sheffield United,6,0,1,5,3,9,-6,1
+20,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,6,0,1,5,5,14,-9,1

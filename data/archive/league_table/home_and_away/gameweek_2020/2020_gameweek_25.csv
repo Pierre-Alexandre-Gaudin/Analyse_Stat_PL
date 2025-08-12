@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,25,18,5,2,50,15,35,59
+2,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,25,14,7,4,53,32,21,49
+3,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,25,15,4,6,44,27,17,49
+4,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,25,13,6,6,39,29,10,45
+5,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,25,12,7,6,41,25,16,43
+6,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,25,11,7,7,45,34,11,40
+7,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,24,12,4,8,37,33,4,40
+8,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,23,11,3,9,37,26,11,36
+9,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,24,10,6,8,37,27,10,36
+10,https://resources.premierleague.com/premierleague25/badges/2.svg,Leeds United,25,11,2,12,43,43,0,35
+11,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,25,10,4,11,31,26,5,34
+12,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,25,9,6,10,26,32,-6,33
+13,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,25,9,5,11,29,43,-14,32
+14,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,25,8,6,11,31,43,-12,30
+15,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,25,7,7,11,18,30,-12,28
+16,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,25,5,11,9,26,32,-6,26
+17,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,25,7,4,14,26,43,-17,25
+18,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,25,4,10,11,21,32,-11,22
+19,https://resources.premierleague.com/premierleague25/badges/35.svg,West Bromwich Albion,25,2,8,15,19,55,-36,14
+20,https://resources.premierleague.com/premierleague25/badges/49.svg,Sheffield United,25,3,2,20,15,41,-26,11

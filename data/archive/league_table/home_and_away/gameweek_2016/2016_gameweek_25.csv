@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,25,19,3,3,52,18,34,60
+2,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,25,16,4,5,51,29,22,52
+3,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,25,14,8,3,46,18,28,50
+4,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,25,15,5,5,54,28,26,50
+5,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,25,14,7,4,54,30,24,49
+6,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,25,13,9,3,38,21,17,48
+7,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,25,11,8,6,40,27,13,41
+8,https://resources.premierleague.com/premierleague25/badges/35.svg,West Bromwich Albion,25,10,7,8,34,31,3,37
+9,https://resources.premierleague.com/premierleague25/badges/110.svg,Stoke City,25,8,8,9,30,36,-6,32
+10,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,25,9,5,11,34,43,-9,32
+11,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,25,8,6,11,28,31,-3,30
+12,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,25,9,3,13,27,36,-9,30
+13,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,25,8,6,11,29,42,-13,30
+14,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,25,7,5,13,35,49,-14,26
+15,https://resources.premierleague.com/premierleague25/badges/80.svg,Swansea City,25,7,3,15,31,54,-23,24
+16,https://resources.premierleague.com/premierleague25/badges/25.svg,Middlesbrough,25,4,10,11,19,27,-8,22
+17,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,25,5,6,14,24,43,-19,21
+18,https://resources.premierleague.com/premierleague25/badges/88.svg,Hull City,25,5,5,15,22,49,-27,20
+19,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,25,5,4,16,32,46,-14,19
+20,https://resources.premierleague.com/premierleague25/badges/56.svg,Sunderland,25,5,4,16,24,46,-22,19

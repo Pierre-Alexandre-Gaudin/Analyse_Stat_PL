@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,4,4,0,0,13,2,11,12
+2,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,4,3,1,0,10,4,6,10
+3,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,4,3,1,0,10,5,5,10
+4,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,3,3,0,0,8,0,8,9
+5,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,4,3,0,1,7,3,4,9
+6,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,4,3,0,1,7,4,3,9
+7,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,4,2,2,0,6,3,3,8
+8,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,4,2,1,1,7,5,2,7
+9,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,3,2,0,1,6,3,3,6
+10,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,3,1,1,1,6,6,0,4
+11,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,3,1,1,1,5,5,0,4
+12,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,4,1,1,2,4,4,0,4
+13,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,3,1,1,1,3,5,-2,4
+14,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,2,1,0,1,4,3,1,3
+15,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,3,1,0,2,5,5,0,3
+16,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,3,0,2,1,3,4,-1,2
+17,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,3,0,1,2,0,4,-4,1
+18,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,4,0,1,3,0,6,-6,1
+19,https://resources.premierleague.com/premierleague25/badges/97.svg,Cardiff City,4,0,1,3,3,10,-7,1
+20,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,4,0,0,4,3,8,-5,0

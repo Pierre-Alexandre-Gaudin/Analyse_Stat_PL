@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,8,6,1,1,23,10,13,19
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,7,5,2,0,16,8,8,17
+3,https://resources.premierleague.com/premierleague25/badges/17.svg,Nottingham Forest,8,4,2,2,11,12,-1,14
+4,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,8,3,3,2,12,9,3,12
+5,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,8,3,2,3,12,11,1,11
+6,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,8,3,2,3,13,13,0,11
+7,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,8,3,2,3,13,14,-1,11
+8,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,7,3,1,3,10,14,-4,10
+9,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,7,2,3,2,8,7,1,9
+10,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,8,2,3,3,11,13,-2,9
+11,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,7,2,2,3,8,12,-4,8
+12,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,7,2,1,4,11,8,3,7
+13,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,7,1,3,3,6,7,-1,6
+14,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,7,1,3,3,8,10,-2,6
+15,https://resources.premierleague.com/premierleague25/badges/40.svg,Ipswich Town,7,1,2,4,8,15,-7,5
+16,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,8,1,2,5,12,20,-8,5
+17,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,7,1,2,4,10,18,-8,5
+18,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,7,1,2,4,5,13,-8,5
+19,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,7,0,1,6,5,14,-9,1
+20,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,8,0,1,7,4,15,-11,1

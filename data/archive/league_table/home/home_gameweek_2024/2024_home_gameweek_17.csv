@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,9,7,1,1,26,16,10,22
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,8,6,1,1,15,5,10,19
+3,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,8,5,3,0,17,6,11,18
+4,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,9,5,3,1,15,10,5,18
+5,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,8,5,1,2,16,12,4,16
+6,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,8,4,3,1,14,9,5,15
+7,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,9,4,3,2,14,13,1,15
+8,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,8,4,2,2,12,8,4,14
+9,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,8,4,2,2,11,7,4,14
+10,https://resources.premierleague.com/premierleague25/badges/17.svg,Nottingham Forest,8,4,2,2,10,7,3,14
+11,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,9,4,1,4,23,17,6,13
+12,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,8,3,4,1,13,12,1,13
+13,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,9,4,1,4,13,14,-1,13
+14,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,9,3,2,4,13,17,-4,11
+15,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,8,2,4,2,9,8,1,10
+16,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,9,2,3,4,11,15,-4,9
+17,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,9,1,4,4,7,15,-8,7
+18,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,8,1,1,6,12,20,-8,4
+19,https://resources.premierleague.com/premierleague25/badges/40.svg,Ipswich Town,9,0,4,5,6,16,-10,4
+20,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,8,1,1,6,7,21,-14,4

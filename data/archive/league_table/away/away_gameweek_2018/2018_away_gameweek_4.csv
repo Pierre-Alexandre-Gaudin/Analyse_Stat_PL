@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,2,2,0,0,5,1,4,6
+2,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,3,2,0,1,6,3,3,6
+3,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,2,2,0,0,4,1,3,6
+4,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,2,1,1,0,3,1,2,4
+5,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,1,1,0,0,3,1,2,3
+6,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,2,1,0,1,4,3,1,3
+7,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,2,1,0,1,3,2,1,3
+8,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,2,1,0,1,3,2,1,3
+9,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,2,1,0,1,5,5,0,3
+10,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,2,1,0,1,3,3,0,3
+11,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,2,1,0,1,2,3,-1,3
+12,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,2,1,0,1,1,2,-1,3
+13,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,2,0,2,0,4,4,0,2
+14,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,2,0,1,1,1,2,-1,1
+15,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,2,0,1,1,3,5,-2,1
+16,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,2,0,1,1,2,4,-2,1
+17,https://resources.premierleague.com/premierleague25/badges/97.svg,Cardiff City,2,0,1,1,0,2,-2,1
+18,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,2,0,1,1,2,7,-5,1
+19,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,2,0,0,2,0,3,-3,0
+20,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,2,0,0,2,1,7,-6,0

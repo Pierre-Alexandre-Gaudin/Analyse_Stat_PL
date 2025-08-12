@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,18,16,1,1,59,17,42,49
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,18,13,4,1,45,16,29,43
+3,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,18,13,3,2,48,25,23,42
+4,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,17,13,3,1,30,8,22,42
+5,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,18,11,5,2,36,14,22,38
+6,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,18,12,1,5,36,22,14,37
+7,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,18,11,2,5,31,20,11,35
+8,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,18,9,7,2,34,18,16,34
+9,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,17,9,3,5,33,19,14,30
+10,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,18,9,2,7,18,19,-1,29
+11,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,18,8,4,6,29,27,2,28
+12,https://resources.premierleague.com/premierleague25/badges/17.svg,Nottingham Forest,18,7,6,5,26,24,2,27
+13,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,18,7,6,5,20,22,-2,27
+14,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,18,7,4,7,23,23,0,25
+15,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,18,6,6,6,19,18,1,24
+16,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,18,6,4,8,20,27,-7,22
+17,https://resources.premierleague.com/premierleague25/badges/2.svg,Leeds United,18,5,7,6,25,33,-8,22
+18,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,18,5,3,10,15,27,-12,18
+19,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,18,4,4,10,21,26,-5,16
+20,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,18,2,4,12,15,33,-18,10

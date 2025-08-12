@@ -1,0 +1,21 @@
+club_name,club_url,season,Games Played,Goals,Goals Conceded,Shots,Shots On Target,penalties,penalties_scored,free_kicks_taken,free_kicks_scored,Hit Woodwork,crosses,cross_accuracy,Interceptions,Blocks,Clearances,Passes,long_passes,long_pass_accuracy,Corners Taken,dribble_attempts,dribble_accuracy,Duels Won,Aerial Duels Won,Red Cards,Yellow Cards,Fouls,Offsides,Own Goals,Free Kicks Scored,penalties_saved,penalty_save_precentage
+Arsenal,https://www.premierleague.com/en/clubs/3/arsenal/stats,2016/2017,38,77,44,402,201,6,4,16,2,16,479,19,535,95,839,21392,1978,49,227,684,67,2131,631,3,68,398,95,4,0,0,0
+Bournemouth,https://www.premierleague.com/en/clubs/91/bournemouth/stats,2016/2017,38,55,67,320,160,10,7,0,0,19,467,17,462,150,1091,17145,2459,48,193,693,61,2036,550,3,52,368,53,2,25,2,40
+Burnley,https://www.premierleague.com/en/clubs/90/burnley/stats,2016/2017,38,39,55,240,120,6,6,25,2,5,469,21,537,221,1237,12559,3178,41,149,304,59,2092,914,2,65,429,101,0,0,1,20
+Chelsea,https://www.premierleague.com/en/clubs/8/chelsea/stats,2016/2017,38,85,33,408,204,4,2,35,3,17,485,16,510,78,839,20125,2399,55,218,762,66,2145,537,0,72,395,64,2,0,0,0
+Crystal Palace,https://www.premierleague.com/en/clubs/31/crystal-palace/stats,2016/2017,38,50,63,276,138,7,4,0,0,8,609,23,552,125,1022,13543,2729,42,203,657,60,2370,836,0,77,470,55,2,22,0,0
+Everton,https://www.premierleague.com/en/clubs/11/everton/stats,2016/2017,38,62,44,382,191,4,3,19,2,11,573,18,461,149,1117,17584,2966,48,197,645,62,2178,666,2,72,459,82,4,0,2,40
+Hull City,https://www.premierleague.com/en/clubs/88/hull-city/stats,2016/2017,38,37,80,252,126,3,3,24,2,10,527,17,565,185,1110,15610,2647,41,179,420,63,1849,593,5,67,402,71,1,0,2,15
+Leicester City,https://www.premierleague.com/en/clubs/13/leicester-city/stats,2016/2017,38,48,63,290,145,6,4,15,1,9,545,18,531,141,1028,13674,2791,36,197,577,52,2057,767,1,72,451,65,2,0,0,0
+Liverpool,https://www.premierleague.com/en/clubs/14/liverpool/stats,2016/2017,38,78,42,472,236,8,7,14,3,17,563,19,410,65,883,22283,2565,48,249,710,58,2155,657,0,54,397,77,1,0,2,40
+Manchester City,https://www.premierleague.com/en/clubs/43/manchester-city/stats,2016/2017,38,80,39,432,216,9,7,26,2,20,542,18,498,67,904,22705,1997,50,280,767,66,2143,584,4,71,395,89,5,0,2,40
+Manchester United,https://www.premierleague.com/en/clubs/1/manchester-united/stats,2016/2017,38,54,29,420,210,4,3,24,1,19,629,24,581,99,1110,20247,2426,54,219,682,59,2144,623,2,78,496,99,0,0,1,20
+Middlesbrough,https://www.premierleague.com/en/clubs/25/middlesbrough/stats,2016/2017,38,27,53,200,100,2,2,0,0,6,548,21,550,148,1090,15736,2856,47,141,611,65,2264,774,1,77,482,51,1,15,0,0
+Southampton,https://www.premierleague.com/en/clubs/20/southampton/stats,2016/2017,38,41,48,358,179,6,3,0,0,12,713,20,516,128,919,18240,2336,45,198,498,64,2037,648,2,59,428,73,2,24,1,11
+Stoke City,https://www.premierleague.com/en/clubs/110/stoke-city/stats,2016/2017,38,41,56,274,137,6,4,15,2,14,494,20,497,159,1009,14558,2507,47,189,598,61,2248,808,2,70,435,85,4,0,1,50
+Sunderland,https://www.premierleague.com/en/clubs/56/sunderland/stats,2016/2017,38,29,69,238,119,5,5,0,0,4,423,18,545,172,1173,12360,2592,40,160,507,63,1936,616,4,78,438,78,1,25,0,0
+Swansea City,https://www.premierleague.com/en/clubs/80/swansea-city/stats,2016/2017,38,45,70,290,145,3,3,21,2,10,620,24,460,137,1039,16125,2578,50,197,532,59,2026,680,0,56,401,49,0,0,1,13
+Tottenham Hotspur,https://www.premierleague.com/en/clubs/6/tottenham-hotspur/stats,2016/2017,38,86,26,514,257,9,7,0,0,22,521,16,314,99,1003,20153,2660,57,274,782,57,2124,575,0,62,432,74,2,34,0,0
+Watford,https://www.premierleague.com/en/clubs/57/watford/stats,2016/2017,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+West Bromwich Albion,https://www.premierleague.com/en/clubs/35/west-bromwich-albion/stats,2016/2017,38,35,76,224,112,4,4,16,1,13,441,19,435,159,840,12388,2365,38,145,505,52,1966,725,4,51,404,75,2,0,1,9
+West Ham United,https://www.premierleague.com/en/clubs/21/west-ham-united/stats,2016/2017,38,47,64,276,138,4,3,38,3,14,550,21,611,112,1071,15134,2624,46,174,672,60,2146,726,5,78,408,74,1,0,1,13

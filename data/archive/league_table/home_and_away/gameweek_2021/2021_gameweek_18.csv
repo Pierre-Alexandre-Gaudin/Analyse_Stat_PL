@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,18,14,2,2,44,9,35,44
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,18,12,5,1,50,15,35,41
+3,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,18,11,5,2,39,12,27,38
+4,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,18,10,2,6,27,23,4,32
+5,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,17,8,4,5,28,21,7,28
+6,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,16,8,3,5,26,24,2,27
+7,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,15,8,2,5,18,19,-1,26
+8,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,18,7,4,7,13,14,-1,25
+9,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,16,6,4,6,27,27,0,22
+10,https://resources.premierleague.com/premierleague25/badges/7.svg,Aston Villa,17,7,1,9,23,25,-2,22
+11,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,17,4,8,5,24,24,0,20
+12,https://resources.premierleague.com/premierleague25/badges/94.svg,Brentford,16,5,5,6,21,22,-1,20
+13,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,16,4,8,4,14,17,-3,20
+14,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,17,5,4,8,21,29,-8,19
+15,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,17,3,8,6,16,26,-10,17
+16,https://resources.premierleague.com/premierleague25/badges/2.svg,Leeds United,18,3,7,8,18,36,-18,16
+17,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,16,4,1,11,21,31,-10,13
+18,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,15,1,8,6,14,21,-7,11
+19,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,18,1,7,10,18,41,-23,10
+20,https://resources.premierleague.com/premierleague25/badges/45.svg,Norwich City,17,2,4,11,8,34,-26,10

@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,9,8,1,0,32,7,25,25
+2,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,9,8,0,1,22,3,19,24
+3,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,9,8,0,1,22,7,15,24
+4,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,9,6,1,2,14,7,7,19
+5,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,9,5,3,1,16,6,10,18
+6,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,9,6,0,3,17,13,4,18
+7,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,9,4,5,0,14,3,11,17
+8,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,9,5,2,2,7,3,4,17
+9,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,9,4,2,3,9,11,-2,14
+10,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,9,4,1,4,11,12,-1,13
+11,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,10,3,3,4,12,14,-2,12
+12,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,9,3,3,3,12,15,-3,12
+13,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,9,2,5,2,9,12,-3,11
+14,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,8,3,2,3,8,11,-3,11
+15,https://resources.premierleague.com/premierleague25/badges/110.svg,Stoke City,9,3,2,4,10,18,-8,11
+16,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,9,3,1,5,9,12,-3,10
+17,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,9,2,3,4,11,20,-9,9
+18,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,9,2,2,5,9,13,-4,8
+19,https://resources.premierleague.com/premierleague25/badges/35.svg,West Bromwich Albion,9,1,5,3,9,14,-5,8
+20,https://resources.premierleague.com/premierleague25/badges/80.svg,Swansea City,9,2,1,6,5,14,-9,7

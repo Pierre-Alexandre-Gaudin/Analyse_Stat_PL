@@ -1,0 +1,21 @@
+club_name,club_url,season,Games Played,Goals,Goals Conceded,Shots,Shots On Target,penalties,penalties_scored,free_kicks_taken,free_kicks_scored,Hit Woodwork,crosses,cross_accuracy,Interceptions,Blocks,Clearances,penalties_saved,penalty_save_precentage,Passes,long_passes,long_pass_accuracy,Corners Taken,dribble_attempts,dribble_accuracy,Duels Won,Aerial Duels Won,Red Cards,Yellow Cards,Fouls,Offsides,Own Goals,Free Kicks Scored,Penalties Taken
+Arsenal,https://www.premierleague.com/en/clubs/3/arsenal/stats,2019/2020,38,56,48,302,151,3,3,19,1,15,500,17,352,141,703,1,13,18649,1983,48,232,697,59,1935,514,5,86,421,73,0,0,0
+Aston Villa,https://www.premierleague.com/en/clubs/7/aston-villa/stats,2019/2020,38,41,67,300,150,3,1,21,1,10,557,20,421,184,839,1,17,13834,2336,44,201,568,62,2104,723,1,68,451,62,1,0,0
+Bournemouth,https://www.premierleague.com/en/clubs/91/bournemouth/stats,2019/2020,38,40,65,244,122,4,4,21,3,10,416,18,469,160,927,1,17,14700,2084,39,195,600,54,2012,802,3,74,369,67,2,0,0
+Brighton and Hove Albion,https://www.premierleague.com/en/clubs/36/brighton-and-hove-albion/stats,2019/2020,38,39,54,286,143,2,1,11,2,8,475,18,419,137,704,0,0,18208,2194,50,178,583,57,1989,710,2,57,386,71,4,0,0
+Burnley,https://www.premierleague.com/en/clubs/90/burnley/stats,2019/2020,38,45,68,232,116,2,2,0,0,12,513,19,365,222,1080,1,33,13011,2898,41,140,369,56,2160,1049,1,75,360,106,2,14,0
+Chelsea,https://www.premierleague.com/en/clubs/8/chelsea/stats,2019/2020,38,69,54,446,223,7,7,29,2,14,626,23,459,91,586,0,0,23245,2142,54,249,718,64,2184,710,0,60,386,63,0,0,0
+Crystal Palace,https://www.premierleague.com/en/clubs/31/crystal-palace/stats,2019/2020,38,31,50,240,120,3,3,15,2,8,353,20,445,135,802,0,0,14711,2185,40,177,697,62,2370,791,2,62,424,53,2,0,0
+Everton,https://www.premierleague.com/en/clubs/11/everton/stats,2019/2020,38,44,56,324,162,1,1,0,0,13,557,21,407,113,732,0,0,15825,2376,48,203,608,62,2301,878,3,70,472,58,2,20,0
+Leicester City,https://www.premierleague.com/en/clubs/13/leicester-city/stats,2019/2020,38,67,41,382,191,7,5,20,1,12,543,18,423,92,700,2,20,19915,2078,49,224,688,55,2222,675,3,41,418,64,2,0,0
+Liverpool,https://www.premierleague.com/en/clubs/14/liverpool/stats,2019/2020,38,85,33,464,232,5,5,20,2,17,671,17,351,68,587,0,0,23872,2457,51,259,658,59,1885,668,1,38,331,53,2,0,0
+Manchester City,https://www.premierleague.com/en/clubs/43/manchester-city/stats,2019/2020,38,102,35,532,266,11,6,27,5,26,707,19,354,66,476,0,0,26330,1978,65,298,721,67,1811,518,4,60,362,68,2,0,0
+Manchester United,https://www.premierleague.com/en/clubs/1/manchester-united/stats,2019/2020,38,66,36,432,216,14,10,33,1,15,426,16,379,99,627,0,0,20059,1850,51,204,748,60,2011,571,0,73,423,56,1,0,0
+Newcastle United,https://www.premierleague.com/en/clubs/4/newcastle-united/stats,2019/2020,38,38,58,266,133,0,0,14,1,11,424,18,391,152,934,0,0,13066,2378,42,151,674,59,2159,752,3,66,370,75,0,0,1
+Norwich City,https://www.premierleague.com/en/clubs/45/norwich-city/stats,2019/2020,38,26,75,262,131,2,2,0,0,16,263,16,396,171,891,3,43,17363,2204,40,163,705,60,2002,537,3,68,363,50,1,16,0
+Sheffield United,https://www.premierleague.com/en/clubs/49/sheffield-united/stats,2019/2020,38,39,39,228,114,1,1,0,0,3,633,20,420,106,880,1,33,14922,2767,40,212,535,65,2209,959,2,61,412,78,3,4,0
+Southampton,https://www.premierleague.com/en/clubs/20/southampton/stats,2019/2020,38,51,60,362,181,5,2,27,2,15,436,22,425,124,824,1,25,15672,2514,36,210,680,62,2330,827,4,53,450,58,0,0,0
+Tottenham Hotspur,https://www.premierleague.com/en/clubs/6/tottenham-hotspur/stats,2019/2020,38,61,47,320,160,4,3,21,1,7,434,16,380,148,841,2,29,18643,2075,42,200,747,60,2179,649,2,82,423,66,5,0,0
+Watford,https://www.premierleague.com/en/clubs/57/watford/stats,2019/2020,38,36,64,244,122,8,7,0,0,8,473,21,424,135,821,1,11,14066,2338,39,168,572,56,2140,832,3,76,481,68,1,18,0
+West Ham United,https://www.premierleague.com/en/clubs/21/west-ham-united/stats,2019/2020,38,49,62,326,163,4,4,13,1,9,513,20,418,117,752,1,17,15101,2406,43,190,663,60,2294,870,1,62,387,66,0,0,0
+Wolverhampton Wanderers,https://www.premierleague.com/en/clubs/39/wolverhampton-wanderers/stats,2019/2020,38,51,40,296,148,4,4,13,1,9,516,23,437,109,649,2,67,16766,2563,53,193,814,62,2287,786,2,57,407,49,2,0,0

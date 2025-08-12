@@ -1,0 +1,21 @@
+club_name,club_url,season,Games Played,Goals,Goals Conceded,Shots,Shots On Target,penalties,penalties_scored,free_kicks_taken,free_kicks_scored,Hit Woodwork,crosses,cross_accuracy,Interceptions,Blocks,Clearances,penalties_saved,penalty_save_precentage,Passes,long_passes,long_pass_accuracy,Corners Taken,dribble_attempts,dribble_accuracy,Duels Won,Aerial Duels Won,Red Cards,Yellow Cards,Fouls,Offsides,Own Goals,Free Kicks Scored
+Arsenal,https://www.premierleague.com/en/clubs/3/arsenal/stats,2020/2021,38,55,39,304,152,6,6,23,2,19,540,20,351,113,615,1,33,20126,1850,46,208,535,55,1656,515,5,47,346,61,2,0
+Aston Villa,https://www.premierleague.com/en/clubs/7/aston-villa/stats,2020/2021,38,55,46,372,186,6,5,0,0,21,519,19,387,159,736,1,17,15191,2350,46,215,595,62,2180,736,4,63,439,71,3,16
+Brighton and Hove Albion,https://www.premierleague.com/en/clubs/36/brighton-and-hove-albion/stats,2020/2021,38,40,46,286,143,9,6,0,0,16,454,22,425,97,560,0,0,18185,2264,47,219,573,61,1866,539,6,45,428,52,1,15
+Burnley,https://www.premierleague.com/en/clubs/90/burnley/stats,2020/2021,38,33,55,260,130,3,3,0,0,10,550,17,416,180,772,0,0,13846,2914,40,172,403,58,2005,888,0,48,384,80,1,15
+Chelsea,https://www.premierleague.com/en/clubs/8/chelsea/stats,2020/2021,38,58,36,420,210,10,8,0,0,17,517,19,382,83,614,1,25,24071,1938,54,227,657,55,1904,576,3,49,433,79,2,16
+Crystal Palace,https://www.premierleague.com/en/clubs/31/crystal-palace/stats,2020/2021,38,41,66,264,132,4,3,18,1,10,355,21,397,138,728,1,25,14067,2040,39,151,642,57,2126,696,2,54,409,67,2,0
+Everton,https://www.premierleague.com/en/clubs/11/everton/stats,2020/2021,38,47,48,296,148,5,4,0,0,10,454,19,391,157,803,0,0,17129,2208,49,168,591,61,2058,674,2,59,386,65,2,15
+Fulham,https://www.premierleague.com/en/clubs/54/fulham/stats,2020/2021,38,27,53,272,136,6,3,0,0,12,518,22,437,95,751,0,0,17796,2085,45,164,795,64,2128,652,3,67,484,43,1,12
+Leeds United,https://www.premierleague.com/en/clubs/2/leeds-united/stats,2020/2021,38,62,54,398,199,4,4,9,2,18,535,17,397,149,611,1,11,18652,2131,49,231,563,56,2006,552,1,61,432,76,2,0
+Leicester City,https://www.premierleague.com/en/clubs/13/leicester-city/stats,2020/2021,38,68,50,370,185,12,10,20,1,13,434,18,438,90,629,0,0,19577,1984,46,214,645,56,2060,614,0,61,413,71,4,0
+Liverpool,https://www.premierleague.com/en/clubs/14/liverpool/stats,2020/2021,38,68,42,428,214,6,6,0,0,12,619,18,347,58,544,1,13,24292,2032,50,260,696,58,1786,543,0,40,396,65,3,22
+Manchester City,https://www.premierleague.com/en/clubs/43/manchester-city/stats,2020/2021,38,83,32,436,218,9,5,21,1,20,432,13,319,82,429,2,20,25651,1700,60,247,783,62,1834,485,2,46,361,57,1,0
+Manchester United,https://www.premierleague.com/en/clubs/1/manchester-united/stats,2020/2021,38,73,44,426,213,11,10,0,0,10,427,18,387,116,595,0,0,20995,1793,55,197,712,58,1913,552,1,64,452,76,3,21
+Newcastle United,https://www.premierleague.com/en/clubs/4/newcastle-united/stats,2020/2021,38,46,62,284,142,7,6,25,1,13,466,22,362,160,876,1,20,13116,2304,42,161,587,60,1916,649,3,61,388,58,2,0
+Sheffield United,https://www.premierleague.com/en/clubs/49/sheffield-united/stats,2020/2021,38,20,63,198,99,4,3,0,0,5,457,17,351,152,796,0,0,14647,2280,40,171,475,57,1914,725,3,73,459,73,1,5
+Southampton,https://www.premierleague.com/en/clubs/20/southampton/stats,2020/2021,38,47,68,336,168,6,5,20,4,12,319,14,401,95,644,1,11,17689,2029,37,178,601,57,2018,534,3,52,428,76,0,0
+Tottenham Hotspur,https://www.premierleague.com/en/clubs/6/tottenham-hotspur/stats,2020/2021,38,68,45,352,176,5,5,0,0,24,338,19,342,147,746,0,0,19070,2081,44,168,715,56,2125,625,2,53,440,45,2,35
+West Bromwich Albion,https://www.premierleague.com/en/clubs/35/west-bromwich-albion/stats,2020/2021,38,35,76,224,112,4,4,16,1,13,441,19,435,159,840,1,9,12388,2365,38,145,505,52,1966,725,4,51,404,75,2,0
+West Ham United,https://www.premierleague.com/en/clubs/21/west-ham-united/stats,2020/2021,38,62,47,330,165,4,2,0,0,23,569,21,437,124,729,1,20,15152,2142,43,168,542,55,1904,757,3,48,375,74,2,17
+Wolverhampton Wanderers,https://www.premierleague.com/en/clubs/39/wolverhampton-wanderers/stats,2020/2021,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,12,10,2,0,36,5,31,32
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,12,9,3,0,23,5,18,30
+3,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,12,8,4,0,27,8,19,28
+4,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,12,9,0,3,20,10,10,27
+5,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,12,7,3,2,26,15,11,24
+6,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,12,6,2,4,21,16,5,20
+7,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,12,6,2,4,17,14,3,20
+8,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,12,6,2,4,20,21,-1,20
+9,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,12,5,4,3,19,15,4,19
+10,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,12,5,2,5,17,16,1,17
+11,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,12,4,4,4,12,13,-1,16
+12,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,12,4,2,6,13,18,-5,14
+13,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,12,3,3,6,14,18,-4,12
+14,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,12,2,3,7,9,15,-6,9
+15,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,12,2,3,7,12,25,-13,9
+16,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,12,2,2,8,8,17,-9,8
+17,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,12,1,5,6,8,21,-13,8
+18,https://resources.premierleague.com/premierleague25/badges/97.svg,Cardiff City,12,2,2,8,11,25,-14,8
+19,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,12,1,4,7,6,22,-16,7
+20,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,12,1,2,9,11,31,-20,5

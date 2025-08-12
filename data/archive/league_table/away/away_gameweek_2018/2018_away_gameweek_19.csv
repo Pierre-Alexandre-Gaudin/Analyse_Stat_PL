@@ -1,0 +1,21 @@
+position,badge_url,name,games_played,games_won,games_drawn,games_lost,goals_for,goals_against,goal_difference,points
+1,https://resources.premierleague.com/premierleague25/badges/6.svg,Tottenham Hotspur,11,9,0,2,25,12,13,27
+2,https://resources.premierleague.com/premierleague25/badges/14.svg,Liverpool,10,8,2,0,21,5,16,26
+3,https://resources.premierleague.com/premierleague25/badges/8.svg,Chelsea,9,6,1,2,18,8,10,19
+4,https://resources.premierleague.com/premierleague25/badges/43.svg,Manchester City,9,5,2,2,16,6,10,17
+5,https://resources.premierleague.com/premierleague25/badges/3.svg,Arsenal,9,4,3,2,21,16,5,15
+6,https://resources.premierleague.com/premierleague25/badges/1.svg,Manchester United,10,4,2,4,20,19,1,14
+7,https://resources.premierleague.com/premierleague25/badges/21.svg,West Ham United,9,4,2,3,13,12,1,14
+8,https://resources.premierleague.com/premierleague25/badges/13.svg,Leicester City,10,4,2,4,12,13,-1,14
+9,https://resources.premierleague.com/premierleague25/badges/57.svg,Watford,9,3,3,3,11,10,1,12
+10,https://resources.premierleague.com/premierleague25/badges/39.svg,Wolverhampton Wanderers,9,3,3,3,8,9,-1,12
+11,https://resources.premierleague.com/premierleague25/badges/4.svg,Newcastle United,9,2,4,3,7,11,-4,10
+12,https://resources.premierleague.com/premierleague25/badges/31.svg,Crystal Palace,10,3,1,6,12,17,-5,10
+13,https://resources.premierleague.com/premierleague25/badges/11.svg,Everton,9,2,3,4,13,14,-1,9
+14,https://resources.premierleague.com/premierleague25/badges/91.svg,Bournemouth,9,3,0,6,11,19,-8,9
+15,https://resources.premierleague.com/premierleague25/badges/36.svg,Brighton and Hove Albion,10,2,1,7,7,16,-9,7
+16,https://resources.premierleague.com/premierleague25/badges/20.svg,Southampton,10,2,1,7,10,21,-11,7
+17,https://resources.premierleague.com/premierleague25/badges/38.svg,Huddersfield Town,9,1,2,6,8,20,-12,5
+18,https://resources.premierleague.com/premierleague25/badges/90.svg,Burnley,10,1,2,7,7,21,-14,5
+19,https://resources.premierleague.com/premierleague25/badges/97.svg,Cardiff City,9,0,2,7,5,18,-13,2
+20,https://resources.premierleague.com/premierleague25/badges/54.svg,Fulham,10,0,2,8,6,24,-18,2
