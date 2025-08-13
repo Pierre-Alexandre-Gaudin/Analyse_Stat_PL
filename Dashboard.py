@@ -1,5 +1,6 @@
 import streamlit as st 
 import pandas as pd
+import os
 
 st.set_page_config(page_title="Home Page", layout="wide")
 st.title("Home Page")
@@ -7,8 +8,8 @@ st.title("Home Page")
 @st.cache_data
 def load_data(path):
     return pd.read_csv(path, encoding="utf-8")
-
-CSV_PATH = "C:/Users/pierr/Documents/Analyse_Stat_Pl/data/archive/Classement_2024.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PATH = os.path.join(BASE_DIR, "data", "archive", "Classement_2024.csv")
 
 df = load_data(CSV_PATH)
 st.session_state["df"] = df
